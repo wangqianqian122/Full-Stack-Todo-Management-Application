@@ -1,0 +1,22 @@
+button {
+    background-color:rgb(221, 163, 92);
+    font-size: 16px;
+    padding: 15px 30px;
+    color: whitesmoke;
+    width: 100px;
+}
+
+.count {
+    font-size: 30px;
+    padding : "15px 30px"
+}
+
+.reset {
+    background-color:rgb(221, 86, 23);
+    width: 200px;
+}
+
+body {
+    padding: 15px 30px;
+    color: white;
+}
